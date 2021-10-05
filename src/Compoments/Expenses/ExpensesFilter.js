@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../Expenses/ExpensesFilter.css';
+import './ExpensesFilter.css';
 
 const ExpensesFilter = (props) => {
 

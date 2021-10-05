@@ -1,10 +1,11 @@
 import "./App.css";
 import Expenses from "./Compoments/Expenses/Expenses";
-import NewExpense from "../src/Compoments/NewExpense/NewExpense";
+import NewExpense from "./Compoments/NewExpense/NewExpense";
 import { useState } from "react";
 
 const hand_expenses = [
   {
+    //a change for git
     id: "e1",
     title: "Toilet Paper",
     amount: 94.12,

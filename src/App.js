@@ -2,7 +2,7 @@ import "./App.css";
 import Expenses from "./Compoments/Expenses/Expenses";
 import NewExpense from "./Compoments/NewExpense/NewExpense";
 import { useState } from "react";
-
+gf
 const hand_expenses = [
   {
     //a change for git
